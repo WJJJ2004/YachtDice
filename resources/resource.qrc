@@ -1,0 +1,12 @@
+<RCC>
+    <qresource lang="english" prefix="/dice_side"/>
+    <qresource prefix="/">
+        <file>images/dice_1.png</file>
+        <file>images/dice_2.png</file>
+        <file>images/dice_3.png</file>
+        <file>images/dice_4.png</file>
+        <file>images/dice_5.png</file>
+        <file>images/dice_6.png</file>
+        <file>images/QuestionMarkBox.png</file>
+    </qresource>
+</RCC>
