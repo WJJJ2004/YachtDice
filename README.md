@@ -22,6 +22,8 @@ The **YachtDice** project is a desktop implementation of the classic Yacht game
 - **Qt-based GUI development**
 - **Score calculation by dice combinations**
 - **Clean separation of UI and game logic**
+  
+[YachtDice.webm](https://github.com/user-attachments/assets/a700b5fd-7385-4afe-83b5-de6ebc72535f)
 
 ---
 
